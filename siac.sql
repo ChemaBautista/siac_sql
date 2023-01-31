@@ -1,0 +1,1 @@
+ALTER TABLE `respuesta` MODIFY `descripcion` LONGTEXT NOT NULL;
